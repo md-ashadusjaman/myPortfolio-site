@@ -1,38 +1,51 @@
-body{
+body {
     font-family: 'Roboto Flex', sans-serif;
-font-family: 'Tiro Devanagari Sanskrit', serif;
+    font-family: 'Tiro Devanagari Sanskrit', serif;
 }
 
-section{
+section {
     display: flex;
 }
-.half-width{
+
+.half-width {
     width: 50%;
-    margin-top:100px;
+    margin-top: 100px;
     padding: 10px 100px;
-   
-    
+
+
 
 }
 
-.top-left{
+.top-left {
     margin-left: 100px;
-    
+
 }
-.top-left h1{
+
+.top-left h1 {
     font-size: 3.0em;
+    border-left: 7px solid;
+    border-radius: 10px;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+    margin-left: 5px;
+    padding: 5px;
+
 }
 
-.top-right{
-    background-image: url
+.top-right {
+    background-image: url('images/shapes/shape-9.png');
+    background-repeat: no-repeat;
+    background-size: 400px;
+
+
 }
 
-.button{
+.button {
     text-decoration: none;
     border: 1px solid rgba(240, 236, 234, 0.441);
-    color: rgb(222, 213, 213);
-    background-color: rgba(187, 131, 27, 0.928);
-    padding:10px 20px; 
+    color: rgb(17, 2, 2);
+    background-color: gold;
+    padding: 10px 40px;
     border-radius: 5px;
-    font-size:15px;
+    font-size: 15px;
 }
