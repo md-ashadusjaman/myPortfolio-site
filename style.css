@@ -1,0 +1,38 @@
+body{
+    font-family: 'Roboto Flex', sans-serif;
+font-family: 'Tiro Devanagari Sanskrit', serif;
+}
+
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    margin-top:100px;
+    padding: 10px 100px;
+   
+    
+
+}
+
+.top-left{
+    margin-left: 100px;
+    
+}
+.top-left h1{
+    font-size: 3.0em;
+}
+
+.top-right{
+    background-image: url
+}
+
+.button{
+    text-decoration: none;
+    border: 1px solid rgba(240, 236, 234, 0.441);
+    color: rgb(222, 213, 213);
+    background-color: rgba(187, 131, 27, 0.928);
+    padding:10px 20px; 
+    border-radius: 5px;
+    font-size:15px;
+}
