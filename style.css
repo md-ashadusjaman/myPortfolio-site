@@ -49,3 +49,31 @@ section {
     border-radius: 5px;
     font-size: 15px;
 }
+
+.one-thired{
+    width: 25%;
+    background-color: rgb(213, 238, 178);
+    margin-left: 7%;
+    margin-right: 10px;
+    border-radius: 15px;
+    padding: 20px;
+}
+.two-thired{
+    width:25%;
+    background-color: rgb(226, 212, 180);
+    margin-right: 10px;
+    border-radius: 15px;
+    padding: 20px;
+}
+.three-thired{
+    width:25%;
+    background-color: rgb(198, 216, 216);
+    margin-right: 10px;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+/* .second-section p{
+    margin-left: 30px;
+    
+} */
