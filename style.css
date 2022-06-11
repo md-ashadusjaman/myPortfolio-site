@@ -50,7 +50,7 @@ section {
     font-size: 15px;
 }
 
-.one-thired{
+.one-thired {
     width: 25%;
     background-color: rgb(213, 238, 178);
     margin-left: 7%;
@@ -58,22 +58,56 @@ section {
     border-radius: 15px;
     padding: 20px;
 }
-.two-thired{
-    width:25%;
+
+.two-thired {
+    width: 25%;
     background-color: rgb(226, 212, 180);
     margin-right: 10px;
     border-radius: 15px;
     padding: 20px;
 }
-.three-thired{
-    width:25%;
+
+.three-thired {
+    width: 25%;
     background-color: rgb(198, 216, 216);
     margin-right: 10px;
     border-radius: 15px;
     padding: 20px;
 }
 
-/* .second-section p{
-    margin-left: 30px;
-    
-} */
+.thiredSection-1st {
+
+    width: 30%;
+    margin-left: 7%;
+    margin-top: 7%;
+    background-image: url(images/shapes/shape-1.png);
+    background-size: 300px;
+    background-position: right;
+    background-repeat: no-repeat;
+
+
+
+}
+
+.thiredSection-2nd {
+    width: 50%;
+    margin-left: 5%;
+    margin-top: 7%;
+
+}
+
+.app-firstPart {
+    background-image: url(images/shapes/shape-3.png);
+    background-size: 100px;
+    background-repeat: no-repeat, repeat-y;
+    padding: 30px 50px;
+    margin-left: 150px;
+    background-position: left-top, left-bottom, 50px 30px 80px;
+}
+
+footer {
+    background-color: rgb(224, 178, 178);
+    background-size: 100%;
+    text-align: center;
+    padding: 5px;
+}
